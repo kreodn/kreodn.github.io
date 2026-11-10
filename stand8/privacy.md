@@ -75,7 +75,7 @@ title: 스탠드8 개인정보처리방침 / Stand8 Privacy Policy
 
 ## 9. 문의
 
-개인정보에 관한 문의: [연락처 이메일]
+개인정보에 관한 문의: kan837@naver.com
 
 ---
 
@@ -152,4 +152,4 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## 9. Contact
 
-Questions about privacy: [contact email]
+Questions about privacy: kan837@naver.com
